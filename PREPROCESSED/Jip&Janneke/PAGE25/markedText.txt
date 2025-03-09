@@ -1,0 +1,13 @@
+<speak><mark name='sentence0'/>hebben een egeltje, dat slaapt.<mark name='sentence1'/>’
+
+‘Slaapt het in jullie bedje?’ vraagt Sinterklaas.<mark name='sentence2'/>
+
+‘Nee,’ zegt Janneke.<mark name='sentence3'/> ‘In de kist.<mark name='sentence4'/> In de schuur.<mark name='sentence5'/>’
+
+En Janneke vertelt een heleboel.<mark name='sentence6'/> Van de tuin en van
+Takkie en van de zandbak.<mark name='sentence7'/>
+
+‘En Jip,’ zegt Sinterklaas, ‘hebben jullie wel eens ruzie?’
+
+24
+.</speak>

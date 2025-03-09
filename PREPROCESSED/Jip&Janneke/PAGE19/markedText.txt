@@ -1,0 +1,22 @@
+<speak><mark name='sentence0'/>Een sjaaltje voor Sinterklaas i
+i
+
+Janneke vraagt: ‘Is Sint jarig op vijf december?’
+
+‘Ja,’ zegt moeder.<mark name='sentence1'/> ‘Dan is hij jarig.<mark name='sentence2'/>’
+
+‘En krijgt hij dan niets?’
+
+‘Nee,’ zegt moeder.<mark name='sentence3'/> ‘Dan krijgt hij niets.<mark name='sentence4'/> Hij geeft
+kadootjes, maar krijgt niets.<mark name='sentence5'/>’
+
+“Wat gek hé?’ zegt Janneke.<mark name='sentence6'/>
+
+‘Hij wil het zelf zo,’ zegt moeder.<mark name='sentence7'/>
+
+“‘Toch vind ik het zielig,? zegt Janneke.<mark name='sentence8'/> ‘Ik wil
+
+Sinterklaas wat geven.<mark name='sentence9'/>’
+‘Goed,’ zegt moeder.<mark name='sentence10'/> ‘Wat wil je hem geven?’
+
+.</speak>

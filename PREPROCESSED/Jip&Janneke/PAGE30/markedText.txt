@@ -1,0 +1,42 @@
+<speak><mark name='sentence0'/>De dag na Sinterklaas
+
+‘Die Jip,’ lacht Janneke.<mark name='sentence1'/> ‘Ha, ha, die Jip!’
+
+‘Wat is er dan?’ vraagt Jip.<mark name='sentence2'/>
+
+‘Je hebt je schoen nog staan,’ zegt Janneke.<mark name='sentence3'/> ‘Bij de
+kachel.<mark name='sentence4'/> Ik zie hem staan.<mark name='sentence5'/> En Sinterklaas is allang weg.<mark name='sentence6'/>’
+
+Jip krijgt een kleur.<mark name='sentence7'/> Hij is er zo aan gewend zijn schoen
+te zetten.<mark name='sentence8'/> Hij kan het niet meer laten.<mark name='sentence9'/>
+
+‘Vandaag is Sint er nog,’ zegt hij.<mark name='sentence10'/> “Wie weet, wat hij nog
+
+brengt.<mark name='sentence11'/>’
+‘Nou,’ zegt Jips moeder, ‘heb je nog niet genoeg
+gekregen, Jip?’
+
+Janneke heeft poppenkleertjes gekregen en een
+fornuisje.<mark name='sentence12'/>
+
+‘Kom je eens een keer pannenkoeken eten, Jip? Ik kan
+echte pannenkoeken bakken op het fornuis.<mark name='sentence13'/>’
+
+‘Pas op,’ zegt Jip.<mark name='sentence14'/> ‘Ik ben Jip niet, ik ben Sinterklaas.<mark name='sentence15'/>’
+Hij gaat de kamer uit en als hij terugkomt, heeft hij een
+lange baard.<mark name='sentence16'/>
+
+‘Zo meisje,’ zegt hij.<mark name='sentence17'/> “Ben je zoet geweest?”
+
+‘Ja Sinterklaas,’ zegt Janneke.<mark name='sentence18'/>
+
+‘Heb je je bord leeggegeten?’ vraagt de kleine
+Sinterklaas.<mark name='sentence19'/>
+
+‘Ja,’ zegt Janneke.<mark name='sentence20'/> ‘Maar jij hebt zelf je bord niet
+leeggegeten.<mark name='sentence21'/>’
+
+‘Wel waar,’ zegt Sinterklaas.<mark name='sentence22'/>
+
+29
+.</speak>

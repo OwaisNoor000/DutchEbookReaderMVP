@@ -1,0 +1,45 @@
+<speak><mark name='sentence0'/>Sinterklaas komt
+
+‘Straks komt Sinterklaas,’ zegt Jip.<mark name='sentence1'/> ‘Hé, moeder?’
+
+‘Ja,’ zegt moeder.<mark name='sentence2'/> ‘Nog even wachten.<mark name='sentence3'/>’
+
+Ze zitten samen op een bankje, Jip en Janneke.<mark name='sentence4'/>
+
+‘Ik zal hem vertellen van het egeltje,’ zegt Janneke.<mark name='sentence5'/> ‘En
+van de poes, en van Takkie.<mark name='sentence6'/>’
+
+‘En ik zal vertellen dat jij mij geknepen hebt,’ zegt Jip.<mark name='sentence7'/>
+
+‘Nee,’ roept Janneke, ‘dat is niks lief.<mark name='sentence8'/>’
+
+‘En ik doe het lekker toch,’ zegt Jip.<mark name='sentence9'/>
+
+En dan gaat de deur open.<mark name='sentence10'/> Daar staat Sinterklaas.<mark name='sentence11'/> En
+achter hem staat Zwarte Piet.<mark name='sentence12'/>
+
+Jip en Janneke zijn doodstil.<mark name='sentence13'/> Ze durven haast geen adem
+te halen.<mark name='sentence14'/> Ze kijken alleen maar.<mark name='sentence15'/>
+
+‘Dag, kinderen,’ zegt Sinterklaas.<mark name='sentence16'/>
+
+Moeder geeft hem de grote stoel.<mark name='sentence17'/>
+
+Hij ziet er zo mooi uit.<mark name='sentence18'/>
+
+Zijn baard is wit en zijn tabberd is rood.<mark name='sentence19'/> En Zwarte Piet
+is in het paars.<mark name='sentence20'/>
+
+‘En zijn de kinders zoet geweest, mevrouw?’ vraagt
+Sinterklaas.<mark name='sentence21'/>
+
+‘Wel,’ zegt moeder, ‘dat moeten ze zelf maar vertellen.<mark name='sentence22'/>
+Jip, je wou toch iets vertellen? Is het niet?’
+
+Maar Jip is zo verlegen.<mark name='sentence23'/> Zo verlegen.<mark name='sentence24'/> Hij pakt Jannekes
+handje vast.<mark name='sentence25'/> En hij zegt niets.<mark name='sentence26'/>
+
+Maar Janneke zegt: ‘We hebben een poes.<mark name='sentence27'/> En we
+
+23
+.</speak>

@@ -1,0 +1,17 @@
+<speak><mark name='sentence0'/>Vrachtauto
+
+‘Ga weg,’ zegt Jip.<mark name='sentence1'/> ‘Ga uit de weg.<mark name='sentence2'/> Of ik zal je overrijden.<mark name='sentence3'/>’
+
+‘Daar mag je niet komen,’ zegt Janneke.<mark name='sentence4'/> ‘Hier is de
+slaapkamer van Poppejans.<mark name='sentence5'/>’
+
+Jip en Janneke zijn zo hard aan het spelen.<mark name='sentence6'/>
+
+Jip heeft een hele grote vrachtauto gekregen.<mark name='sentence7'/> Van
+Sinterklaas.<mark name='sentence8'/> Met een aanhangwagen.<mark name='sentence9'/> Vol met blokken.<mark name='sentence10'/>
+En hij speelt daar aldoor mee.<mark name='sentence11'/>
+
+En Janneke heeft een klerenkast gekregen.<mark name='sentence12'/> Vol met
+kleertjes.<mark name='sentence13'/> Kleertjes voor Poppejans.<mark name='sentence14'/> Een jurk en een
+
+.</speak>

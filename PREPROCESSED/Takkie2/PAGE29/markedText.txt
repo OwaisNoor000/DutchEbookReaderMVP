@@ -1,0 +1,34 @@
+<speak><mark name='sentence0'/>Arme Takkie
+
+Takkie is ziek.<mark name='sentence1'/>
+
+Och, die arme Takkie.<mark name='sentence2'/>
+
+Hij wil niet eten.<mark name='sentence3'/> En hij ligt in zijn
+mandje.<mark name='sentence4'/>
+
+‘Kijk,’ zegt Jip.<mark name='sentence5'/> “Hij bibbert.<mark name='sentence6'/>’
+
+Ja,’ zegt Janneke.<mark name='sentence7'/> ‘Hij beeft.<mark name='sentence8'/> Zullen we
+hem een dekentje geven?’
+
+En ze leggen het dekentje van de pop
+over Takkie heen.<mark name='sentence9'/>
+
+Takkie vindt het best.<mark name='sentence10'/> Hij probeert een
+beetje te kwispelen met zijn staartje.<mark name='sentence11'/>
+
+Maar hij kan zelfs niet meer kwispelen.<mark name='sentence12'/>
+
+‘Weet je wat,’ zegt moeder.<mark name='sentence13'/> ‘Ik ga de
+dierenarts opbellen.<mark name='sentence14'/>’ En zij doet het
+meteen.<mark name='sentence15'/>
+
+‘Nou komt de dokter, Takkie,’ zegt
+
+Janneke.<mark name='sentence16'/> ‘Nou komt de dokter en die
+
+maakt je weer beter.<mark name='sentence17'/>’
+
+29
+.</speak>

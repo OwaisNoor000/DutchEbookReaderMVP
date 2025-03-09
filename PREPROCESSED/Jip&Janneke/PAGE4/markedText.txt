@@ -1,0 +1,12 @@
+<speak><mark name='sentence0'/>Jip en Janneke
+Sinterklaas
+komt!
+
+Annie M.<mark name='sentence1'/>G.<mark name='sentence2'/> Schmidt & Fiep Westendorp
+
+Ay
+
+Amsterdam - awe
+Em.<mark name='sentence3'/> Querido’s Uitgeverij BV 2013
+
+.</speak>

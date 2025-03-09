@@ -1,0 +1,38 @@
+<speak><mark name='sentence0'/>Water voor ’t paard
+van Sint-Nicolaas
+
+“Moeder,’ zegt Jip.<mark name='sentence1'/> ‘Moet het paard geen water hebben?’
+
+‘Het paard?’ vraagt moeder.<mark name='sentence2'/> ‘Welk paard?’
+
+‘Het paard van Sinterklaas,’ zegt Jip.<mark name='sentence3'/> ‘Ik ga toch mijn
+schoen zetten vanavond! Met een wortel.<mark name='sentence4'/> Maar als het
+paard nou dorst heeft?’
+
+‘Je mag best een teiltje water neerzetten,’ zegt moeder.<mark name='sentence5'/>
+En dat doet Jip dan.<mark name='sentence6'/>
+
+Maar als Janneke binnenkomt, zegt ze: “Waarvoor is
+dat?’
+
+‘Voor het paard,’ zegt Jip trots.<mark name='sentence7'/> Hij heeft het zelf
+verzonnen, van dat teiltje water.<mark name='sentence8'/>
+
+‘Daar heeft het paard niks an,’ zegt Janneke.<mark name='sentence9'/>
+
+‘Wel waar,’ zegt Jip.<mark name='sentence10'/>
+
+‘Niet,’ zegt Janneke.<mark name='sentence11'/> ‘Want het paard komt niet zelf
+door de schoorsteen.<mark name='sentence12'/> Zegt moeder.<mark name='sentence13'/> Piet komt door de
+schoorsteen.<mark name='sentence14'/> En die haalt de wortel weg.<mark name='sentence15'/> En het hooi.<mark name='sentence16'/> Uit
+de schoen.<mark name='sentence17'/> Maar een teil water kan hij niet meenemen.<mark name='sentence18'/>’
+
+‘En mijn moeder zegt dat het paard best water wil,’ zegt
+Jip.<mark name='sentence19'/>
+
+‘Nou,’ zegt Janneke.<mark name='sentence20'/> ‘Je moet het zelf maar weten, hoor.<mark name='sentence21'/>
+Maar ik geloof er niks van.<mark name='sentence22'/>’
+
+Jip is een beetje boos.<mark name='sentence23'/> Maar hij laat het teiltje lekker
+staan.<mark name='sentence24'/>
+.</speak>

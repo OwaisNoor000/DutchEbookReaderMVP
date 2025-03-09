@@ -1,0 +1,15 @@
+<speak><mark name='sentence0'/>jullie weggelopen?’
+
+Jip en Janneke vertellen het hele verhaal.<mark name='sentence1'/>
+
+‘Maar we hebben zo fijn in de auto van de buurman
+gezeten,” zeggen ze.<mark name='sentence2'/> ‘Dat was zo leuk!’
+
+‘Nou,’ zegt de moeder van Jip.<mark name='sentence3'/> ‘Sinterklaas komt
+misschien nog wel bij ons.<mark name='sentence4'/>’
+
+‘Of bij ons, hé, moeder?’ vraagt Janneke.<mark name='sentence5'/>
+
+‘Of bij ons,’ zegt de moeder van Janneke.<mark name='sentence6'/>
+
+.</speak>

@@ -1,0 +1,6 @@
+<speak><mark name='sentence0'/>Op een dag vinden Jip en Janneke een hondje op straat.<mark name='sentence1'/>
+Een gek lang hondje dat geen baas heeft.<mark name='sentence2'/> Ze nemen hem
+mee naar huis en willen hem heel graag houden.<mark name='sentence3'/> Hij is z6
+lief.<mark name='sentence4'/> En ze weten ook meteen een naam voor hem.<mark name='sentence5'/> Takkie!
+
+.</speak>

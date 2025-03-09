@@ -1,0 +1,18 @@
+OCR jullie weggelopen?’ Jip en Janneke vertellen het hele verhaal. 
+GCP jullie weggelopen?’Jip en Janneke vertellen het hele verhaal.
+
+OCR ‘Maar we hebben zo fijn in de auto van de buurman gezeten,” zeggen ze. 
+GCP ‘Maar we hebben zo fijn in de auto van de buurmangezeten,” zeggen ze.
+
+OCR ‘Dat was zo leuk!’ ‘Nou,’ zegt de moeder van Jip. 
+GCP  ‘Dat was zo leuk!’‘Nou,’ zegt de moeder van Jip.
+
+OCR ‘Sinterklaas komt misschien nog wel bij ons.’ 
+GCP  ‘Sinterklaas komtmisschien nog wel bij ons.
+
+OCR ‘Of bij ons, hé, moeder?’ vraagt Janneke. 
+GCP ’‘Of bij ons, hé, moeder?’ vraagt Janneke.
+
+OCR ‘Of bij ons,’ zegt de moeder van Janneke. 
+GCP ‘Of bij ons,’ zegt de moeder van Janneke.
+

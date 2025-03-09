@@ -1,0 +1,21 @@
+<speak><mark name='sentence0'/>mantel, en een pyjama.<mark name='sentence1'/> Allemaal voor de pop.<mark name='sentence2'/> En ze heeft
+echte klerenhangertjes.<mark name='sentence3'/> Waar ze al die kleertjes op kan
+hangen.<mark name='sentence4'/>
+
+En nu heeft Janneke een slaapkamer gemaakt.<mark name='sentence5'/> Voor de
+pop.<mark name='sentence6'/> Maar Jip rijdt er dwars doorheen.<mark name='sentence7'/>
+
+“‘Daar heb ik niks mee te maken,’ zegt Jip.<mark name='sentence8'/> ‘Mijn wagen
+moet rijden.<mark name='sentence9'/>’
+
+‘Kom, kom,’ zegt moeder.<mark name='sentence10'/> ‘Jullie moeten geen ruzie
+maken.<mark name='sentence11'/> Weet je wat, laat Poppejans maar in de nieuwe
+wagen rijden.<mark name='sentence12'/>’
+
+‘Nee,’ zegt Jip.<mark name='sentence13'/> “Het is een vrachtwagen.<mark name='sentence14'/> En daar wil ik
+geen poppen in hebben.<mark name='sentence15'/>’
+
+‘Maar ze heeft een zonnebril,’ zegt Janneke.<mark name='sentence16'/> ‘Poppejans
+heeft een echte zonnebril.<mark name='sentence17'/>’
+
+.</speak>

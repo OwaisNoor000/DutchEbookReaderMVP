@@ -1,0 +1,15 @@
+<speak><mark name='sentence0'/>Gooi wat in mijn schoentje
+
+‘Nu is Sinterklaas in ’t land,’ zegt moeder.<mark name='sentence1'/> ‘Als je nu zingt
+bij de schoorsteen, dan kan hij ’t horen.<mark name='sentence2'/>’
+
+‘En mag ik dan nou mijn schoentje zetten?’ vraagt Jip.<mark name='sentence3'/>
+
+‘Nu wel,’ zegt moeder.<mark name='sentence4'/> ‘Met een wortel erin.<mark name='sentence5'/> En wil
+Janneke ook hier een schoentje zetten?’
+
+‘Nee,’ zegt Janneke, ‘mijn schoentje staat al thuis bij de
+
+eN Lady
+
+.</speak>

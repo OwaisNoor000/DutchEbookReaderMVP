@@ -1,0 +1,43 @@
+<speak><mark name='sentence0'/>Ze komen thuis met een hondje
+
+Janneke,’ zegt moeder, ‘weet je de winkel
+van Smit? De winkel van lapjes en van
+wol?’
+
+Ja,’ zegt Janneke.<mark name='sentence1'/> ‘Ga daar eens een
+pakje naalden halen,’ zegt moeder.<mark name='sentence2'/> ‘Fijne
+naalden, geen grove.<mark name='sentence3'/>’
+
+‘Goed,’ zegt Janneke.<mark name='sentence4'/> En ze roept Jip.<mark name='sentence5'/> ‘Ga
+je mee naalden kopen?’
+
+Daar gaan ze samen.<mark name='sentence6'/> Het is mooi weer.<mark name='sentence7'/>
+En er is veel te zien op straat.<mark name='sentence8'/> Er is een
+vrouw met bloemen.<mark name='sentence9'/> En een kar met
+pruimen.<mark name='sentence10'/> Jip en Janneke krijgen ieder
+een pruim van de pruimenman.<mark name='sentence11'/>
+
+‘Kijk, dat hondje loopt met ons mee,’
+zegt Jip.<mark name='sentence12'/> Ja,’ zegt Janneke, ‘wat een
+
+gek hondje.<mark name='sentence13'/> Wat een gek lang hondje.<mark name='sentence14'/>
+Zijn achterpootjes zitten zo ver van zijn
+voorpootijes.<mark name='sentence15'/>’
+
+‘Hij is vies,’ zegt Jip.<mark name='sentence16'/> ‘Maar hij is lief.<mark name='sentence17'/>’
+‘Ga maar naar je baas,’ zegt Janneke, ‘ga
+maar terug.<mark name='sentence18'/>’
+
+Maar het hondje wil niet terug.<mark name='sentence19'/> Hij wil
+mee.<mark name='sentence20'/>
+
+‘Arm hondje,’ zegt Janneke, ‘heb je geen
+baas?’
+
+Het hondje kijkt haar verdrietig aan.<mark name='sentence21'/>
+‘Heb je geen huis?’
+
+Het hondje kan niet praten, maar zijn
+oogjes zeggen: ‘Nee, ik heb geen huis.<mark name='sentence22'/>’
+‘Ga dan maar met ons mee,’ zegt Janneke.<mark name='sentence23'/>
+.</speak>

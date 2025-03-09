@@ -1,0 +1,21 @@
+<speak><mark name='sentence0'/>Takkie is weg
+
+Het is toch zo verdrietig.<mark name='sentence1'/> Zo akelig!
+Takkie is weg.<mark name='sentence2'/> Takkie is weggelopen.<mark name='sentence3'/>
+Vanmorgen was hij al zoek.<mark name='sentence4'/> En Jip heeft
+geroepen: “‘Takkie!’ En Janneke heeft ook
+
+geroepen: “Takkie-ie-ie-ie-ie!’
+
+Maar hij bleef weg.<mark name='sentence5'/> En nu is het al avond
+en Takkie is nog niet terug.<mark name='sentence6'/>
+
+‘Ik ga niet naar bed,’ zegt Jip.<mark name='sentence7'/> ‘Maar je
+
+kunt toch niet de hele nacht opblijven,’
+zegt moeder.<mark name='sentence8'/> ‘Morgen gaan we naar
+
+de politie.<mark name='sentence9'/> Dan vragen we of ze Takkie
+gevonden hebben.<mark name='sentence10'/>’
+
+.</speak>

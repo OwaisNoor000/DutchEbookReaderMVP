@@ -1,0 +1,9 @@
+<speak><mark name='sentence0'/>Sinterklaas kapoentje.<mark name='sentence1'/> En dan Hoor, wie klopt daar.<mark name='sentence2'/>’
+En nu gaat het goed.<mark name='sentence3'/>
+Jip geeft Janneke een zoen.<mark name='sentence4'/>
+En Janneke geeft Jip een zoen.<mark name='sentence5'/>
+En ze ruimen al het hooi weer op.<mark name='sentence6'/>
+En dan gaan ze slapen.<mark name='sentence7'/>
+
+22
+.</speak>

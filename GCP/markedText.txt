@@ -1,0 +1,43 @@
+<speak><mark name='sentence1'/>Een brief aan Sinterklaas
+
+‘Ik heb Sinterklaas gezien,’ zegt Jip.<mark name='sentence2'/>
+
+‘Waar dan?’ vraagt Janneke.<mark name='sentence3'/>
+
+‘In de krant,’ zegt Jip.<mark name='sentence4'/>
+
+‘O, in de krant,’ zegt Janneke.<mark name='sentence5'/> ‘Ik heb hem ook in de
+krant gezien.<mark name='sentence6'/> Maar hij is er nog niet.<mark name='sentence7'/>’
+
+‘Ja, maar,’ zegt Jip, ‘ik wil zo graag mijn schoentje
+zetten.<mark name='sentence8'/>’
+
+‘He ja,’ zegt Janneke.<mark name='sentence9'/> ‘Hier bij jou thuis Jip.<mark name='sentence10'/> Mijn
+moeder zegt dat het nog te vroeg is.<mark name='sentence11'/>’
+
+Ze halen allebei een schoen en zetten die naast de
+kachel.<mark name='sentence12'/>
+
+‘Je ziet het haast niet, hé?’ zegt Jip.<mark name='sentence13'/>
+
+‘Nee,’ zegt Janneke.<mark name='sentence14'/> ‘Sinterklaas zal er geen erg in
+hebben.<mark name='sentence15'/> Zullen we nog meer schoenen ernaast zetten?’
+
+‘Hé ja,’ zegt Jip.<mark name='sentence16'/> ‘Haal jij ook maar meer, bij je thuis.<mark name='sentence17'/>’
+
+Dan hebben ze eindelijk een heleboel schoenen staan.<mark name='sentence18'/>
+
+‘En nu zingen,’ zegt Janneke.<mark name='sentence19'/> ‘Heel hard.<mark name='sentence20'/>’
+
+Ze zingen ontzettend hard.<mark name='sentence21'/>
+
+Maar dan komt Jips moeder en zegt: ‘Wat is dat nu?
+Sinterklaas is er nog lang niet.<mark name='sentence22'/> Jullie zijn veel te vroeg.<mark name='sentence23'/>
+Maar je mag wel een brief aan Sinterklaas schrijven.<mark name='sentence24'/> Dat
+kan.<mark name='sentence25'/> Doe dat maar.<mark name='sentence26'/>’
+
+Ze schrijven een mooie brief.<mark name='sentence27'/> Jip tekent een vrachtauto.<mark name='sentence28'/>
+En Janneke tekent een fornuisje.<mark name='sentence29'/> Want dat willen ze het
+liefste hebben.<mark name='sentence30'/>
+
+.</speak>

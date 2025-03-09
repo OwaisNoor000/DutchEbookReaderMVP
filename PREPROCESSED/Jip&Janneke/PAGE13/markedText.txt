@@ -1,0 +1,44 @@
+<speak><mark name='sentence0'/>Verdwaald
+
+‘Kijk eens,’ zegt Jip.<mark name='sentence1'/> ‘Daar gaat Sinterklaas.<mark name='sentence2'/>’
+
+‘Waar dan?’ vraagt Janneke.<mark name='sentence3'/>
+
+‘Daar!’ roept Jip.<mark name='sentence4'/> En hij wijst.<mark name='sentence5'/> En ja hoor, een heel eind
+verder, op straat, daar loopt Sinterklaas.<mark name='sentence6'/> Met Zwarte
+Piet.<mark name='sentence7'/> Maar het paard is er niet bij.<mark name='sentence8'/>
+
+‘Kijk eens, wat een boel kinderen,’ zegt Jip.<mark name='sentence9'/>
+
+“Ga je mee kijken?’ zegt Janneke.<mark name='sentence10'/>
+
+En daar gaan Jip en Janneke.<mark name='sentence11'/> Ze hollen.<mark name='sentence12'/> Ze lopen heel
+hard.<mark name='sentence13'/> Want ze zien Sinterklaas in de verte.<mark name='sentence14'/> Met allemaal
+kinderen erachter.<mark name='sentence15'/>
+
+“We halen ze nog wel in,’ zegt Jip.<mark name='sentence16'/>
+
+En hij hijgt.<mark name='sentence17'/>
+
+‘Ja, best,’ zegt Janneke.<mark name='sentence18'/>
+
+Ze lopen en ze lopen.<mark name='sentence19'/> Maar Jip heeft korte beentjes.<mark name='sentence20'/> En
+Janneke ook.<mark name='sentence21'/>
+
+En ze kunnen nog niet zo heel erg hard lopen.<mark name='sentence22'/>
+
+‘Nu zijn ze die straat ingegaan,’ zegt Jip.<mark name='sentence23'/>
+
+‘Niet waar,’ zegt Janneke.<mark name='sentence24'/> ‘De volgende straat.<mark name='sentence25'/>’
+
+Dan gaan Jip en Janneke een zijstraat in.<mark name='sentence26'/> En daar zijn
+veel mensen.<mark name='sentence27'/> Mensen die langs de winkels lopen.<mark name='sentence28'/> Maar
+Sinterklaas is daar niet.<mark name='sentence29'/>
+
+‘Dan gaan we deze straat maar weer in,’ zegt Jip.<mark name='sentence30'/> ‘Daar
+zijn ze vast.<mark name='sentence31'/>’ En ze gaan weer een andere straat in.<mark name='sentence32'/>
+
+Maar daar is Sinterklaas ook niet.<mark name='sentence33'/>
+
+12
+.</speak>

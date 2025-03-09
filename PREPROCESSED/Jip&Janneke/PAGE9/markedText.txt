@@ -1,0 +1,39 @@
+<speak><mark name='sentence0'/>m/’n schoentje zitten?
+
+Hij sluipt heel zachtjes de trap af.<mark name='sentence1'/> Hij gaat naar de
+huiskamer.<mark name='sentence2'/> Wat is dat? De wortel is weg.<mark name='sentence3'/> Maar de schoen
+is ook weg!
+
+“Moeder! Moeder!’ roept Jip.<mark name='sentence4'/> Maar moeder slaapt nog.<mark name='sentence5'/>
+En dan ziet Jip ineens de mand van Takkie.<mark name='sentence6'/> Takkie slaapt
+ook.<mark name='sentence7'/> Maar in zijn mand ligt het schoentje van Jip.<mark name='sentence8'/> En de
+wortel ligt er ook in.<mark name='sentence9'/>
+
+‘Stoute hond,’ roept Jip.<mark name='sentence10'/>
+
+Takkie wordt wakker en kwispelt met zijn staart.<mark name='sentence11'/> Net of
+hij het erg leuk vindt.<mark name='sentence12'/>
+
+Maar Jip vindt het niets leuk.<mark name='sentence13'/> Hij is boos.<mark name='sentence14'/> En als moeder
+beneden komt huilt Jip: ‘Nou is Zwarte Piet voor niets
+geweest.<mark name='sentence15'/>’
+
+‘Ach,’ zegt moeder, ‘wat naar is dat nou.<mark name='sentence16'/> Maar
+vanavond leggen we weer een wortel in de schoen.<mark name='sentence17'/>’
+
+En dan komt Janneke binnen met twee chocolade
+hondjes.<mark name='sentence18'/>
+
+‘Een voor mij en een voor Jip,’ zegt ze.<mark name='sentence19'/>
+
+‘Zie je wel,’ zegt moeder.<mark name='sentence20'/> ‘Zwarte Piet heeft ze allebei
+maar in Jannekes schoentje gedaan.<mark name='sentence21'/>’
+
+‘Fijn,’ zegt Jip.<mark name='sentence22'/> ‘Maar Takkie krijgt niets van Sint.<mark name='sentence23'/>’
+
+Takkie vindt het niets erg.<mark name='sentence24'/>
+
+aan 5
+ys
+
+.</speak>
